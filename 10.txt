@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 123
 
+=======
+txttxttxttxttxttxttxttxttxttxttxttxt
+ajfsakj
+jjjj
+>>>>>>> c3a2a92 (add 10.txt)
 =======
 txttxttxttxttxttxttxttxttxttxttxttxt
 ajfsakj
