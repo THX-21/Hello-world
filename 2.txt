@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ijai
+=======
+123456
+>>>>>>> e5fec4e (change 2.txt)
 apple
 orange
 banana
