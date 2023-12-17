@@ -1,0 +1,3 @@
+[submodule "newn"]
+	path = newn
+	url = https://github.com/THX-21/newn.git
